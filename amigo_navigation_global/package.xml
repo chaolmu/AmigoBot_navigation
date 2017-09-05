@@ -1,0 +1,13 @@
+<package>
+  <name>amigo_navigation_global</name>
+  <description>navigation stack for Amigo differential drive</description>
+  <author>Chao Yao</author>
+  <maintainer email="chao.yao@tu-dresden.de">x</maintainer>
+  <license>BSD</license>
+  <version>0.1.0</version>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+ 
+</package>
+
+
